@@ -1,0 +1,6 @@
+lib
+bin
+local
+include
+*.py[cod]
+output/*
