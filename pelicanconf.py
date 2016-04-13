@@ -30,5 +30,8 @@ SOCIAL = (('@quizonia', 'https://twitter.com/quizonia/'),)
 
 DEFAULT_PAGINATION = 10
 
+# Static paths
+STATIC_PATHS = ['pdfs']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

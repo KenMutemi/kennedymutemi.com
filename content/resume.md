@@ -1,5 +1,5 @@
 Title: Resume
-Category: Category
+Category: Resume
 Date: 2016-04-08
 Tags: resume, kennedy, mutemi
 Slug: resume
@@ -18,7 +18,7 @@ Experience
 **Web Developer:**
 *Kaysmart Logistics, Nairobi*
 
-* Built and transformed the client's [website](http://www.kaysmartlogistics.com) to utilize a reponsive design with Twitter's Bootstrap framework and the Wordpress CMS.
+* Built and transformed the client's [link](http://www.kaysmartlogitics.com) to utilize a reponsive design with Twitter's Bootstrap framework and the Wordpress CMS.
 
 Education
 ---------
@@ -30,7 +30,7 @@ Education
 Technical Experience
 --------------------
 
-PieQuiz
+Mitihani.org
 :   This is a Django application used to create and do quizzes with multiple choices.
 
     * These items can also contain lists, but you need to mind the
@@ -52,4 +52,5 @@ DevOps
     * SQL, Database Design and Development, Data Modeling, Data and Web Scraping
     * Google Analytics, A/B Testing 
 ----------------------------------------
-More details, as well as professional references, available on [request](mailto:info@kennedymutemi.com).
+More details, as well as professional references, available on [request](mailto:info@kennedymutemi.com).  
+[PDF version]({filename}/pdfs/resume.pdf)
