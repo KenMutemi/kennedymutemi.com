@@ -3,4 +3,5 @@ bin
 local
 include
 *.py[cod]
+*.swp
 output/*
