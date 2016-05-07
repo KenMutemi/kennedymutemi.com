@@ -12,14 +12,6 @@ Nairobi
 info@kennedymutemi.com  
 0727011159  
 
-Experience
-----------
-
-**Web Developer:**
-*Kaysmart Logistics, Nairobi*
-
-* Built and transformed the client's [link](http://www.kaysmartlogitics.com) to utilize a reponsive design with Twitter's Bootstrap framework and the Wordpress CMS.
-
 Education
 ---------
 
@@ -29,6 +21,11 @@ Education
 
 Technical Experience
 --------------------
+
+**Web Developer:**
+*Kaysmart Logistics, Nairobi*
+
+* Built and transformed the client's [website](http://www.kaysmartlogitics.com) to utilize a reponsive design with Twitter's Bootstrap framework and the Wordpress CMS.
 
 Mitihani.org
 :   This is a Django application used to create and do quizzes with multiple choices.

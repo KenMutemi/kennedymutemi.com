@@ -26,7 +26,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('@quizonia', 'https://twitter.com/quizonia/'),)
+SOCIAL = (('@quizonia', 'https://twitter.com/quizonia/'),
+        ('+KennedyMutemi', 'https://plus.google.com/103079388328852575515'),)
 
 DEFAULT_PAGINATION = 10
 
