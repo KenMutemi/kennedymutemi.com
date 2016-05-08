@@ -12,7 +12,11 @@ TIMEZONE = 'Africa/Nairobi'
 
 DEFAULT_LANG = u'en'
 
-MAIN_MENU == True
+MAIN_MENU = True
+
+MENUITEMS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),
+             ('Tags', '/tags.html'),)
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
