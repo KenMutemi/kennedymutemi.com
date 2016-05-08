@@ -20,9 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Home', 'http://kennedymutemi.com/home.html'),
+LINKS = (('Home', 'http://kennedymutemi.com/'),
          ('About', 'http://kennedymutemi.com/about.html'),
-         ('Projects', 'http://kennedymutemi.com/projects.html'),)
+         ('Projects', 'http://kennedymutemi.com/projects.html'),
+         ('Resume', 'http://kennedymutemi.com/resume.html'))
 
 # Social widget
 SOCIAL = (('@quizonia', 'https://twitter.com/quizonia/'),
