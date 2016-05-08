@@ -14,9 +14,12 @@ DEFAULT_LANG = u'en'
 
 MAIN_MENU = True
 
-MENUITEMS = (('Archives', '/archives.html'),
+MENUITEMS = (('Home', ''),
+             ('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
+
+COPYRIGHT_YEAR = 2016
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -32,8 +35,10 @@ LINKS = (('Home', 'http://kennedymutemi.com/'),
          ('Resume', 'http://kennedymutemi.com/resume.html'))
 
 # Social widget
-SOCIAL = (('@quizonia', 'https://twitter.com/quizonia/'),
-        ('+KennedyMutemi', 'https://plus.google.com/103079388328852575515'),)
+SOCIAL = (('linkedin', 'https://br.linkedin.com/in/test'),
+          ('github', 'https://github.com/test'),
+          ('google', 'https://google.com/+Test'),
+          ('rss', '//www.example.com/feeds/all.atom.xml'))
 
 DEFAULT_PAGINATION = 10
 
