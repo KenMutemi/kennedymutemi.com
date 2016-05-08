@@ -12,8 +12,6 @@ TIMEZONE = 'Africa/Nairobi'
 
 DEFAULT_LANG = u'en'
 
-OUTPUT_PATH = '/var/www/html/kennedymutemi.com/'
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
